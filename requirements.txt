@@ -1,0 +1,12 @@
+beautifulsoup4==4.7.1
+libvirt-python==10.5.0
+meson==1.7.0
+pycairo==1.16.2
+pydbus==0.6.0
+PyGObject==3.30.4
+PyQt5==5.15.2
+python-dateutil==2.7.3
+pytz==2019.1
+pyxdg==0.25
+PyYAML==5.1.2
+requests==2.22.0
